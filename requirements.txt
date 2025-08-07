@@ -14,3 +14,4 @@ docx2txt
 google-generativeai
 requests
 pydantic
+python-multipart
